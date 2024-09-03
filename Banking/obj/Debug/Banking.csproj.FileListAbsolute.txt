@@ -1,0 +1,23 @@
+E:\220953014\Banking\Banking\bin\Debug\Banking.exe.config
+E:\220953014\Banking\Banking\bin\Debug\Banking.exe
+E:\220953014\Banking\Banking\bin\Debug\Banking.pdb
+E:\220953014\Banking\Banking\obj\Debug\Banking.csprojResolveAssemblyReference.cache
+E:\220953014\Banking\Banking\obj\Debug\Banking.Form1.resources
+E:\220953014\Banking\Banking\obj\Debug\Banking.Form2.resources
+E:\220953014\Banking\Banking\obj\Debug\Banking.Form3.resources
+E:\220953014\Banking\Banking\obj\Debug\Banking.Properties.Resources.resources
+E:\220953014\Banking\Banking\obj\Debug\Banking.csproj.GenerateResource.Cache
+E:\220953014\Banking\Banking\obj\Debug\Banking.exe
+E:\220953014\Banking\Banking\obj\Debug\Banking.pdb
+D:\Users\Ganapathi\Documents\DBMS LAB\c#\Banking-20240205T145238Z-001\Banking\bin\Debug\Banking.exe.config
+D:\Users\Ganapathi\Documents\DBMS LAB\c#\Banking-20240205T145238Z-001\Banking\bin\Debug\Banking.exe
+D:\Users\Ganapathi\Documents\DBMS LAB\c#\Banking-20240205T145238Z-001\Banking\bin\Debug\Banking.pdb
+D:\Users\Ganapathi\Documents\DBMS LAB\c#\Banking-20240205T145238Z-001\Banking\obj\Debug\Banking.csproj.AssemblyReference.cache
+D:\Users\Ganapathi\Documents\DBMS LAB\c#\Banking-20240205T145238Z-001\Banking\obj\Debug\Banking.Form1.resources
+D:\Users\Ganapathi\Documents\DBMS LAB\c#\Banking-20240205T145238Z-001\Banking\obj\Debug\Banking.Form2.resources
+D:\Users\Ganapathi\Documents\DBMS LAB\c#\Banking-20240205T145238Z-001\Banking\obj\Debug\Banking.Form3.resources
+D:\Users\Ganapathi\Documents\DBMS LAB\c#\Banking-20240205T145238Z-001\Banking\obj\Debug\Banking.Properties.Resources.resources
+D:\Users\Ganapathi\Documents\DBMS LAB\c#\Banking-20240205T145238Z-001\Banking\obj\Debug\Banking.csproj.GenerateResource.cache
+D:\Users\Ganapathi\Documents\DBMS LAB\c#\Banking-20240205T145238Z-001\Banking\obj\Debug\Banking.csproj.CoreCompileInputs.cache
+D:\Users\Ganapathi\Documents\DBMS LAB\c#\Banking-20240205T145238Z-001\Banking\obj\Debug\Banking.exe
+D:\Users\Ganapathi\Documents\DBMS LAB\c#\Banking-20240205T145238Z-001\Banking\obj\Debug\Banking.pdb
